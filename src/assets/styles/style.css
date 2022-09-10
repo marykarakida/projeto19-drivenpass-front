@@ -1,0 +1,9 @@
+* {
+    box-sizing: border-box;
+    transition: all ease 0.2s;
+}
+
+body {
+    height: 100vh;
+    width: 100vw;
+}
